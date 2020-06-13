@@ -2,7 +2,6 @@
 //
 // Author      :Mekkoaui Abdelhakim
 // Version     : 1.0
-// Copyright   : Edgar Lizarraga
 // Description : yield method
 //============================================================================
 
